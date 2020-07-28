@@ -2,7 +2,7 @@
 
 The source code for implementing Spectral subtraction, MMSE-STSA, Wiener filtering are obtained from Esfandiar Zavarehei.
 
-The orginal link for downloading those codes are:
+The orginal links for downloading those codes are:
 
 MMSE STSA (https://www.mathworks.com/matlabcentral/fileexchange/10143-mmse-stsa), Retrieved July 23, 2020.
 
