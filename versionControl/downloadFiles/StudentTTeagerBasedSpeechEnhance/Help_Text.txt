@@ -1,0 +1,10 @@
+These Matlab codes are the implementation of algorithm presented in
+"Speech Enhancement Based on Student t Modeling of Teager Energy Operated
+Perceptual Wavelet Packet Coefficients and a Custom Thresholding Function"
+by M. T. Islam, C. Shahnaz, W. P. Zhu and M. O. Ahmad submitted to 
+IEEE TSALP.
+
+The main code runs from Main_File.m. A sample audio file 
+"sp05_babble_sn15.wav" which is taken from NOIZEUS database,is taken as
+the noisy speech file in the above code and an enhanced speech file is
+produced as output.
