@@ -1,4 +1,4 @@
-# BioacousticSignalDenoising
+# Bioacoustic signal denoising
 
 The source code for implementing Spectral subtraction, MMSE-STSA, Wiener filtering are obtained from Esfandiar Zavarehei.
 
